@@ -1,0 +1,10 @@
+@charset "utf-8";
+:root{
+	--primary-color:#673ab7;
+}
+.purple{
+	background: var(--primary-color);;
+}
+.home-title{
+	color:var(--primary-color);
+}
